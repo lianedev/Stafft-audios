@@ -25,7 +25,7 @@ Key Features:
 
 ### ChromeDriver
 Set the path to your ChromeDriver executable:
-```python
+```python eg:
 
 driver_path = r"D:\projects\chrome-win64\chromedriver.exe"
 
